@@ -1,1 +1,1 @@
-# Covid-19 Visualizer and Dashboard
+# Covid-19 Visualizer
